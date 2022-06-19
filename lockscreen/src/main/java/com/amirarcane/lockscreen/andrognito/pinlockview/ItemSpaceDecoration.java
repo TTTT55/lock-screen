@@ -1,7 +1,7 @@
 package com.amirarcane.lockscreen.andrognito.pinlockview;
 
 import android.graphics.Rect;
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget;
 import android.view.View;
 
 /**
