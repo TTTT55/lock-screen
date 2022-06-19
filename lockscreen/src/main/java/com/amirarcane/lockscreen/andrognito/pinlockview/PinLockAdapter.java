@@ -5,7 +5,7 @@ import android.graphics.PorterDuff;
 import android.graphics.Rect;
 import android.graphics.Typeface;
 import android.os.Build;
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget;
 import android.util.TypedValue;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
