@@ -15,7 +15,7 @@ Check Pin:
 ![Screenshots](https://github.com/amirarcane/lock-screen/blob/master/demo/check.gif) 
 
 Lock Screen gets a 4 digit pincode from user at first running time. After that every time that you start the intent, It asks  
-for pincode.
+for pincode. 
 
 Watching this repository will allow GitHub to email you whenever I publish a release.
 
