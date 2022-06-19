@@ -6,7 +6,7 @@ import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
 import androidx.annotation.Nullable;
 import androidx.recyclerview.widget.GridLayoutManager;
-import androidx.recyclerview.widget;
+import androidx.recyclerview.widget.RecyclerView;
 import android.util.AttributeSet;
 
 import com.amirarcane.lockscreen.R;
