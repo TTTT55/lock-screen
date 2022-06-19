@@ -36,23 +36,23 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'lockscreen'
 
-    publishedGroupId = 'com.amirarcane.lock-screen'
+    publishedGroupId = 'com.TTTT55.lock-screen'
     libraryName = 'lockscreen'
     artifact = 'lockscreen'
 
     libraryDescription = 'Simple and beautiful Lock Screen library to set an check pin code. Integrated with fingerprint authentication.'
 
-    siteUrl = 'https://github.com/amirarcane/lock-screen'
-    gitUrl = 'https://github.com/amirarcane/rlock-screen.git'
+    siteUrl = 'https://github.com/TTTT55/lock-screen'
+    gitUrl = 'https://github.com/TTTT55/lock-screen.git'
 
     libraryVersion = '2.0.0'
 
-    developerId = 'amirarcane'
-    developerName = 'Amirhossein Naghshzan'
-    developerEmail = 'n.naghshzan@gmail.com'
+    developerId = 'TTTT55'
+    developerName = 'Notorious'
+    developerEmail = 'iamtttt55@gmail.com'
 
     licenseName = 'MIT'
-    licenseUrl = 'https://github.com/amirarcane/lock_screen/blob/master/LICENSE.txt'
+    licenseUrl = 'https://github.com/TTTT55/lock_screen/blob/master/LICENSE.txt'
     allLicenses = ["MIT"]
 }
 
